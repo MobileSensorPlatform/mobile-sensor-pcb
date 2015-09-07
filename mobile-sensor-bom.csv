@@ -7,32 +7,42 @@ Arduino,Due,Adafruit,1076,1,49.95,49.95,Microcontroller,https://www.adafruit.com
 Texas Instruments,CD74HC4050M,Newark,66F5526,1,0.53,,Non-inverting buffer,http://www.newark.com/texas-instruments/cd74hc4050m/non-inverting-buffer-soic-16/dp/66F5526
 Stackpole,RMCF0805JT1K00,Digikey,RMCF0805JT1K00CT-ND,12,0.02,,1k 0805 resistor,http://www.digikey.com/product-detail/en/RMCF0805JT1K00/RMCF0805JT1K00CT-ND/
 ,,,,1,,,2k 0805 resistor,
-,,,,1,,,10k 0805 resistor,
+,,,,7,,,10k 0805 resistor,
 ,,,,1,,,200k 0805 resistor,
 ,,,,2,,,340k 0805 resistor,
 ,,,,2,,,1.87 Mohm 0805 resistor,
 ,,Sparkfun,PRT-08272,2,1.00,,10-pin 2mm socket for XBee,https://www.sparkfun.com/products/8272
 Micrel,MIC5219-3.3YM5,Newark,47W3590,1,1.50,,3.3 V LDO regulator for XBee,http://www.newark.com/micrel-semiconductor/mic5219-3-3ym5-tr/ldo-0-5vdo-0-5a-3-3v-1-5sot23/dp/47W3590
+,,,,1,,,XBee transmitter,
 Lite-On,LTST-C170GKT,Digikey,160-1179-1-ND,5,0.34,,Green 0805 LED,http://www.digikey.com/product-detail/en/LTST-C170GKT/160-1179-1-ND/
 Lite-On,LTST-C170CKT,Digikey,160-1176-1-ND,4,0.39,,Red 0805 LED,http://www.digikey.com/product-detail/en/LTST-C170CKT/160-1176-1-ND/
 Lite-On,LTST-C170YKT,Digikey,160-1175-1-ND,2,0.36,,Yellow 0805 LED,http://www.digikey.com/product-detail/en/LTST-C170YKT/160-1175-1-ND/
 Lite-On,LTST-C170TBKT,Digikey,160-1579-1-ND,1,0.39,,Blue 0805 LED,http://www.digikey.com/product-detail/en/LTST-C170TBKT/160-1579-1-ND/
 ,,,,1,,,100 uF/6V capacitor for battery boost,
-,,,,6,,,10 uF 1203 capacitor,
+,,,,12,,,10 uF 1203 capacitor,
 ,,,,1,,,2.2 uF 1203 capacitor,
 ,,,,3,,,100 nF 1203 capacitor,
+,,,,3,,,10 nF 1203 capacitor for TC,
 ,VLC5045-6.8uH,,,1,,,6.8 uH inductor,
 ,TPS61030RSAR,,,1,,,5 V boost converter,
 ,,,,1,,,MicroSD card socket,
-,,,,1,,,CR1220 backup battery,
-,FGPMMOPA6H,,,1,,,GPS unit,
+,,,,1,,,MicroSD card,
+,,,,1,,,Backup battery socket,
+,,Adafruit,380,1,0.95,,CR1220 backup battery,https://www.adafruit.com/products/380
+,FGPMMOPA6H,Adafruit,790,1,29.95,,GPS unit,http://www.adafruit.com/products/790
 ,,,,1,,,Ferrite bead,
 ,RT9193-3.3GB,Digikey,1028-1014-1-ND,1,0.49,,3.3 V boost converter,http://www.digikey.com/product-detail/en/RT9193-33GB/1028-1014-1-ND/
 ,,,,1,,,GPS antenna connector,
 ,,,,1,,,MicroUSB socket,
-JST,PH,,,1,,,2-pin screw terminal for battery,
+JST,PH,,,1,,,2-pin socket for battery,
 Microchip,MCP73831T-2ACI/OT,Newark,56K7045,1,0.56,,LiPo charge controller,
 On Semiconductor,MMUN2133LT1G,Newark,90W4497,1,0.14,,PNP transistor with bias network,http://www.newark.com/on-semiconductor/mmun2133lt1g/bipolar-pre-biased-digital-transistor/dp/90W4497
-,,,,1,,,Power switch,
+,OS102011MA1Q,,,1,,,Power switch,
 ,MBR120,,,1,,,Zener diode,
 ,,,,1,,,Fuse,
+,,,,3,,,2-pin screw terminal for TC,
+Maxim,MAX31855KASA+,Digikey,MAX31855KASA+-ND,3,4.50,,Thermocouple amplifier,http://www.digikey.com/product-detail/en/MAX31855KASA%2B/MAX31855KASA%2B-ND/
+,,,,6,,,Ferrite beads,
+,LP298XS,,,3,,,3.3 V buck regulator,
+,1N4148,,,6,,,Diode for TC comm,
+,,,,3,,,Type K thermocouples,
