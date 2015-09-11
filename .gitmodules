@@ -1,0 +1,6 @@
+[submodule "freetronics_kicad_footprints"]
+	path = freetronics_kicad_footprints
+	url = https://github.com/freetronics/freetronics_kicad_library.git
+[submodule "rascalmicro_kicad_footprints"]
+	path = rascalmicro_kicad_footprints
+	url = https://github.com/rascalmicro/rascalmicro-kicad-footprints.pretty.git
