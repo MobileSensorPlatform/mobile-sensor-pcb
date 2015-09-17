@@ -1,4 +1,4 @@
-update=9/10/2015 10:57:54 AM
+update=9/17/2015 11:26:40 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+LibName31=freetronics_kicad_footprints/freetronics_schematic
