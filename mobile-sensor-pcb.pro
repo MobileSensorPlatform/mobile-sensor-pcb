@@ -1,4 +1,4 @@
-update=9/17/2015 11:26:40 AM
+update=9/18/2015 5:06:53 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=freetronics_kicad_footprints/freetronics_schematic
+LibName32=C:/Users/user/Desktop/transistor
