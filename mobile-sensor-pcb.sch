@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:mobile-sensor-pcb-rescue
 LIBS:rascalmicro-kicad-library
 LIBS:power
 LIBS:device
@@ -30,7 +31,6 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:freetronics_schematic
-LIBS:transistor
 LIBS:mobile-sensor-pcb-cache
 EELAYER 25 0
 EELAYER END
@@ -1062,13 +1062,24 @@ F 3 "" H 6300 7350 60  0000 C CNN
 $EndComp
 $Comp
 L PNP-BJT-BIASED_SOT Q1
-U 1 1 55FC9720
-P 4750 5150
-F 0 "Q1" H 4700 5300 60  0000 C CNN
-F 1 "PNP-BJT-BIASED_SOT" H 4750 5000 60  0000 C CNN
-F 2 "" H 4750 5150 60  0001 C CNN
-F 3 "" H 4750 5150 60  0001 C CNN
-	1    4750 5150
+U 1 1 56002B1C
+P 4800 5100
+F 0 "Q1" H 4750 5250 60  0000 C CNN
+F 1 "PNP-BJT-BIASED_SOT" H 4800 4950 60  0000 C CNN
+F 2 "Housings_SOT-23_SOT-143_TSOT-6:SOT-23_Handsoldering" H 4800 5100 60  0001 C CNN
+F 3 "" H 4800 5100 60  0001 C CNN
+	1    4800 5100
 	1    0    0    1   
+$EndComp
+$Comp
+L TPS61030RSA U13
+U 1 1 5600564C
+P 3300 3700
+F 0 "U13" H 3350 4750 60  0000 C CNN
+F 1 "TPS61030RSA" H 3600 3650 60  0000 C CNN
+F 2 "Housings_DFN_QFN:QFN-16-1EP_4x4mm_Pitch0.65mm" H 3300 3700 60  0001 C CNN
+F 3 "" H 3300 3700 60  0000 C CNN
+	1    3300 3700
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
