@@ -465,17 +465,6 @@ F 3 "" H 10300 7750 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C_Small C2
-U 1 1 55FAE430
-P 11900 7750
-F 0 "C2" H 11910 7820 50  0000 L CNN
-F 1 "10uF" H 11910 7670 50  0000 L CNN
-F 2 "Capacitors_SMD:C_1206_HandSoldering" H 11900 7750 60  0001 C CNN
-F 3 "" H 11900 7750 60  0000 C CNN
-	1    11900 7750
-	1    0    0    -1  
-$EndComp
-$Comp
 L C_Small C3
 U 1 1 55FAE4D2
 P 2550 3350
@@ -1454,17 +1443,6 @@ F 3 "" H 8600 1700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R24
-U 1 1 56035D61
-P 5775 2000
-F 0 "R24" H 5805 2020 50  0000 L CNN
-F 1 "1.80M" H 5805 1960 50  0000 L CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" H 5775 2000 60  0001 C CNN
-F 3 "" H 5775 2000 60  0000 C CNN
-	1    5775 2000
-	1    0    0    -1  
-$EndComp
-$Comp
 L GND #PWR031
 U 1 1 56036CFA
 P 2150 2350
@@ -1921,7 +1899,7 @@ Wire Wire Line
 Wire Wire Line
 	13800 5950 13900 5950
 Wire Wire Line
-	13900 5950 13900 4950
+	13900 4950 13900 5950
 Wire Wire Line
 	12550 4950 14925 4950
 Wire Wire Line
@@ -1956,7 +1934,7 @@ Wire Wire Line
 Wire Wire Line
 	13900 4500 13600 4500
 Wire Wire Line
-	15550 3700 15400 3700
+	15400 3700 15550 3700
 Wire Wire Line
 	15950 3125 15950 3700
 Wire Wire Line
@@ -2023,8 +2001,6 @@ Connection ~ 5075 1900
 Wire Wire Line
 	5450 1900 5450 1950
 Connection ~ 5450 1900
-Wire Wire Line
-	5775 2100 5775 2300
 Wire Wire Line
 	5075 2150 5075 2350
 Wire Wire Line
@@ -2235,12 +2211,9 @@ Connection ~ 7575 2300
 Connection ~ 7575 1700
 Wire Wire Line
 	7575 2100 7626 2100
-Connection ~ 5774 1898
 Connection ~ 3600 3795
 Connection ~ 3600 5997
 Connection ~ 3750 8274
-Connection ~ 10296 7647
-Connection ~ 11901 7650
 Connection ~ 12250 7650
 Connection ~ 14120 4950
 Connection ~ 12970 2925
@@ -2248,14 +2221,44 @@ Connection ~ 15450 3700
 Connection ~ 15500 3700
 NoConn ~ 14550 3850
 $Comp
-L GND #PWR?
+L GND #PWR051
 U 1 1 560788C4
 P 850 2175
-F 0 "#PWR?" H 850 1925 50  0001 C CNN
+F 0 "#PWR051" H 850 1925 50  0001 C CNN
 F 1 "GND" H 850 2025 50  0000 C CNN
 F 2 "" H 850 2175 60  0000 C CNN
 F 3 "" H 850 2175 60  0000 C CNN
 	1    850  2175
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	5775 1925 5775 1900
+Connection ~ 5775 1900
+Wire Wire Line
+	5775 2125 5775 2300
+$Comp
+L R_Small R24
+U 1 1 560F98AA
+P 5775 2025
+F 0 "R24" H 5805 2045 50  0000 L CNN
+F 1 "1.80M" H 5805 1985 50  0000 L CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" H 5775 2025 60  0001 C CNN
+F 3 "" H 5775 2025 60  0000 C CNN
+	1    5775 2025
+	1    0    0    -1  
+$EndComp
+Connection ~ 8600 1600
+$Comp
+L C_Small C2
+U 1 1 560FD67E
+P 11900 7750
+F 0 "C2" H 11910 7820 50  0000 L CNN
+F 1 "10uF" H 11910 7670 50  0000 L CNN
+F 2 "Capacitors_SMD:C_1206_HandSoldering" H 11900 7750 60  0001 C CNN
+F 3 "" H 11900 7750 60  0000 C CNN
+	1    11900 7750
+	1    0    0    -1  
+$EndComp
+Connection ~ 11900 7650
+Connection ~ 10300 7650
 $EndSCHEMATC
