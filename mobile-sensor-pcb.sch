@@ -1243,7 +1243,7 @@ NoConn ~ 12550 5150
 Text GLabel 11450 4775 1    60   Input ~ 0
 BATT-5V
 Text GLabel 14550 5650 1    60   Input ~ 0
-SD-SCK
+SD-CLK
 Text GLabel 14400 5650 1    60   Input ~ 0
 SD-MOSI
 NoConn ~ 13000 3750
@@ -1714,7 +1714,7 @@ SD-MISO
 Text GLabel 7125 8425 0    60   Input ~ 0
 SD-MOSI
 Text GLabel 7125 7975 0    60   Input ~ 0
-SD-SCK
+SD-CLK
 Text GLabel 7125 8625 0    60   Input ~ 0
 SD-CS
 Text GLabel 9025 6575 2    60   Input ~ 0
