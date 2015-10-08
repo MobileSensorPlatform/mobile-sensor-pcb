@@ -1,0 +1,32 @@
+RMCF0805JT1K00CT-ND,60,1k resistor
+RMCF0805JT2K00CT-ND ,5,2k resistor
+RMCF0805JT10K0CT-ND,25,10k resistor
+RMCF0805JT200KCT-ND,5,200k resistor
+RMCF0805JT340KCT-ND,10,340k resistor
+RMCF0805JT1M80CT-ND,10,1.80 Mohm resistor
+160-1179-1-ND,25,Green 0805 LED
+160-1176-1-ND,20,Red 0805 LED
+160-1175-1-ND,10,Yellow 0805 LED
+160-1579-1-ND,5,Blue 0805 LED
+490-7217-1-ND,5,100 uF/6V capacitor for battery boost
+311-1949-1-ND,60,10 uF capacitor
+311-1953-1-ND ,5,2.2 uF capacitor
+311-1179-1-ND,15,100 nF capacitor
+311-1174-1-ND ,15,10 nF capacitor for TC
+240-2719-1-ND,5,6.8 uH inductor
+BH501-ND,5,Backup battery socket
+1028-1014-1-ND,5,3.3 V boost converter
+ACX1230-ND,5,GPS antenna connector
+609-4048-1-ND,5,MicroUSB socket
+507-1075-1-ND,5,500 mA fuse
+ED2740-ND,15,2-pin screw terminal for TC
+MAX31855KASA+-ND,15,Thermocouple amplifier
+240-2399-1-ND,35,Ferrite beads
+LP2980AIM5-3.3/NOPBCT-ND ,15,3.3 V buck regulator
+296-9214-5-ND,5,Non-inverting buffer
+576-1281-1-ND,5,3.3 V LDO regulator for XBee
+296-16660-1-ND,5,5 V boost converter
+3M5607CT-ND,5,MicroSD card socket
+MCP73831T-2ACI%2FOTCT-ND,5,LiPo charge controller
+MMUN2133LT1GOSCT-ND,5,PNP transistor with bias network
+MBR120VLSFT1GOSCT-ND,5,Protection diode

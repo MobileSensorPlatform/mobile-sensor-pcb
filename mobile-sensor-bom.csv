@@ -9,7 +9,6 @@ JST,S2B-PH-K-S?,Adafruit,1769,1,0.75,0.75,2-pin socket for battery,http://www.ad
 ,,Adafruit,270,3,9.95,29.85,Type K thermocouples,,http://www.adafruit.com/products/270
 4UCON,,Adafruit,366,1,0.95,0.95,10-pin socket for XBee,2 mm pitch,http://www.adafruit.com/products/366
 Digi,Xbee Series 1,Adafruit,128,1,22.95,22.95,XBee transmitter,"22 mm spacing, https://www.sparkfun.com/datasheets/Wireless/Zigbee/XBee-Dimensional.pdf",http://www.adafruit.com/products/128
-3M,929647-09-36-I,Digikey,929647-09-36-ND ,1,0.22,0.22,2 pin headers for reset (cut from 36-pin),0.100” pitch,http://www.digikey.com/product-detail/en/929647-09-36-I/929647-09-36-ND/
 Stackpole,RMCF0805JT1K00,Digikey,RMCF0805JT1K00CT-ND,12,0.02,0.24,1k resistor,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT1K00/RMCF0805JT1K00CT-ND/
 Stackpole,RMCF0805JT2K00,Digikey,RMCF0805JT2K00CT-ND ,1,0.1,0.1,2k resistor,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT2K00/RMCF0805JT2K00CT-ND/
 Stackpole,RMCF0805JT10K0,Digikey,RMCF0805JT10K0CT-ND,5,0.1,0.5,10k resistor,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT10K0/RMCF0805JT10K0CT-ND/
@@ -30,7 +29,6 @@ MPD,BH501,Digikey,BH501-ND,1,1.34,1.34,Backup battery socket,http://www.memorypr
 Richtek,RT9193-3.3GB,Digikey,1028-1014-1-ND,1,0.49,0.49,3.3 V boost converter,"SOT-23-5, http://www.richtek.com/assets/product_file/RT9193/DS9193-16.pdf",http://www.digikey.com/product-detail/en/RT9193-33GB/1028-1014-1-ND/
 Amphenol,132134,Digikey,ACX1230-ND,1,4.68,4.68,GPS antenna connector,http://www.amphenolrf.com/media/downloads/2187/132134.pdf,http://www.digikey.com/product-detail/en/132134/ACX1230-ND
 FCI,10103592-0001LF,Digikey,609-4048-1-ND,1,0.76,0.76,MicroUSB socket,http://portal.fciconnect.com/Comergent//fci/drawing/10103592.pdf,http://www.digikey.com/product-detail/en/10103592-0001LF/609-4048-1-ND
-C&K Components,OS102011MA1QS1,Digikey,CKN9560-ND,1,0.37,0.37,Power switch,http://www.ck-components.com/index.php?module=media&action=Display&cmpref=14388&lang=en&width=&height=&format=&alt=,http://www.digikey.com/product-detail/en/OS102011MA1QS1/CKN9560-ND/
 Bel Fuse,C1Q 500,Digikey,507-1075-1-ND,1,0.31,0.31,500 mA fuse,1206 (3216 metric),http://www.digikey.com/product-detail/en/C1Q%2520500/507-1075-1-ND
 OST,OSTTE020104,Digikey,ED2740-ND,3,0.38,1.14,2-pin screw terminal for TC,"3.5 mm, http://www.on-shore.com/sites/default/files/manuals/osttexx0164_0.pdf",http://www.digikey.com/product-detail/en/OSTTE020104/ED2740-ND
 Maxim,MAX31855KASA+,Digikey,MAX31855KASA+-ND,3,4.5,13.5,Thermocouple amplifier,"SOIC-8, http://pdfserv.maximintegrated.com/land_patterns/90-0096.PDF",http://www.digikey.com/product-detail/en/MAX31855KASA%2B/MAX31855KASA%2B-ND
