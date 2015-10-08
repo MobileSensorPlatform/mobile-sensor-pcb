@@ -817,17 +817,6 @@ F 3 "" H 3750 8375 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R15
-U 1 1 55FB3AEF
-P 3600 6100
-F 0 "R15" H 3630 6120 50  0000 L CNN
-F 1 "10k" H 3630 6060 50  0000 L CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" H 3600 6100 60  0001 C CNN
-F 3 "" H 3600 6100 60  0000 C CNN
-	1    3600 6100
-	1    0    0    -1  
-$EndComp
-$Comp
 L RT9193 U4
 U 1 1 55FAE82E
 P 12150 5000
@@ -1648,7 +1637,7 @@ F 3 "" H 2750 7000 60  0000 C CNN
 	1    2750 7000
 	1    0    0    -1  
 $EndComp
-Text GLabel 1350 7700 0    60   Input ~ 0
+Text GLabel 1350 7725 0    60   Input ~ 0
 BATT-5V
 Text GLabel 4100 8575 2    60   Input ~ 0
 TC-SCK
@@ -1899,7 +1888,7 @@ Wire Wire Line
 Wire Wire Line
 	13800 5950 13900 5950
 Wire Wire Line
-	13900 4950 13900 5950
+	13900 5950 13900 4950
 Wire Wire Line
 	12550 4950 14925 4950
 Wire Wire Line
@@ -2211,9 +2200,6 @@ Connection ~ 7575 2300
 Connection ~ 7575 1700
 Wire Wire Line
 	7575 2100 7626 2100
-Connection ~ 3600 3795
-Connection ~ 3600 5997
-Connection ~ 3750 8274
 Connection ~ 12250 7650
 Connection ~ 14120 4950
 Connection ~ 12970 2925
@@ -2261,4 +2247,18 @@ F 3 "" H 11900 7750 60  0000 C CNN
 $EndComp
 Connection ~ 11900 7650
 Connection ~ 10300 7650
+Connection ~ 3750 8275
+$Comp
+L R_Small R15
+U 1 1 55FB3AEF
+P 3600 6100
+F 0 "R15" H 3630 6120 50  0000 L CNN
+F 1 "10k" H 3630 6060 50  0000 L CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" H 3600 6100 60  0001 C CNN
+F 3 "" H 3600 6100 60  0000 C CNN
+	1    3600 6100
+	1    0    0    -1  
+$EndComp
+Connection ~ 3600 6000
+Connection ~ 3600 3800
 $EndSCHEMATC
