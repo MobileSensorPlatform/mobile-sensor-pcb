@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:mobile-sensor-pcb-rescue
 LIBS:rascalmicro-kicad-library
 LIBS:power
 LIBS:device
@@ -1888,7 +1887,7 @@ Wire Wire Line
 Wire Wire Line
 	13800 5950 13900 5950
 Wire Wire Line
-	13900 5950 13900 4950
+	13900 4950 13900 5950
 Wire Wire Line
 	12550 4950 14925 4950
 Wire Wire Line
@@ -2059,10 +2058,10 @@ Wire Wire Line
 	2550 3500 2875 3500
 Connection ~ 2875 3500
 Wire Wire Line
-	3850 3200 3850 3800
+	3850 3800 3850 3200
 Connection ~ 2875 3200
 Wire Wire Line
-	3850 3800 2750 3800
+	2750 3800 3850 3800
 Wire Wire Line
 	1100 6550 1100 6700
 Wire Wire Line
@@ -2099,10 +2098,10 @@ Wire Wire Line
 Wire Wire Line
 	2875 5600 2875 5650
 Wire Wire Line
-	3850 5350 3850 6000
+	3850 6000 3850 5350
 Connection ~ 2875 5350
 Wire Wire Line
-	3850 6000 2750 6000
+	2750 6000 3850 6000
 Wire Wire Line
 	3250 6300 4100 6300
 Wire Wire Line
@@ -2201,7 +2200,6 @@ Connection ~ 7575 1700
 Wire Wire Line
 	7575 2100 7626 2100
 Connection ~ 12250 7650
-Connection ~ 14120 4950
 Connection ~ 12970 2925
 Connection ~ 15450 3700
 Connection ~ 15500 3700
@@ -2261,4 +2259,5 @@ F 3 "" H 3600 6100 60  0000 C CNN
 $EndComp
 Connection ~ 3600 6000
 Connection ~ 3600 3800
+Connection ~ 14125 4950
 $EndSCHEMATC
