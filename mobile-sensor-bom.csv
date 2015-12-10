@@ -1,45 +1,45 @@
-Manufacturer,Manu #,Distributor,Dist #,Qty,Price,Ext. Price,Description,Footprint,Link
-Arduino,Due,Adafruit,1076,1,49.95,49.95,Microcontroller,,https://www.adafruit.com/products/1076
-,,Adafruit,85,1,1.95,1.95,Arduino Uno R3 headers,0.100” pitch,http://www.adafruit.com/products/85
-,,Adafruit,102,1,7.95,7.95,MicroSD card,,http://www.adafruit.com/products/102
-,,Adafruit,380,1,0.95,0.95,CR1220 backup battery,,https://www.adafruit.com/products/380
-Globaltop,FGPMMOPA6H,Adafruit,790,1,29.95,29.95,GPS unit,http://www.adafruit.com/datasheets/GlobalTop-FGPMMOPA6H-Datasheet-V0A.pdf,http://www.adafruit.com/products/790
-,,Adafruit,960,1,12.95,12.95,GPS antenna,,http://www.adafruit.com/products/960
-JST,S2B-PH-K-S?,Adafruit,1769,1,0.75,0.75,2-pin socket for battery,http://www.adafruit.com/datasheets/17311.pdf,http://www.adafruit.com/products/1769
-,,Adafruit,270,3,9.95,29.85,Type K thermocouples,,http://www.adafruit.com/products/270
-4UCON,,Adafruit,366,1,0.95,0.95,10-pin socket for XBee,2 mm pitch,http://www.adafruit.com/products/366
-Digi,Xbee Series 1,Adafruit,128,1,22.95,22.95,XBee transmitter,"22 mm spacing, https://www.sparkfun.com/datasheets/Wireless/Zigbee/XBee-Dimensional.pdf",http://www.adafruit.com/products/128
-Stackpole,RMCF0805JT1K00,Digikey,RMCF0805JT1K00CT-ND,12,0.02,0.24,1k resistor,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT1K00/RMCF0805JT1K00CT-ND/
-Stackpole,RMCF0805JT2K00,Digikey,RMCF0805JT2K00CT-ND ,1,0.1,0.1,2k resistor,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT2K00/RMCF0805JT2K00CT-ND/
-Stackpole,RMCF0805JT10K0,Digikey,RMCF0805JT10K0CT-ND,5,0.1,0.5,10k resistor,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT10K0/RMCF0805JT10K0CT-ND/
-Stackpole,RMCF0805JT200K,Digikey,RMCF0805JT200KCT-ND,1,0.1,0.1,200k resistor,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT200K/RMCF0805JT200KCT-ND/
-Stackpole,RMCF0805JT340K,Digikey,RMCF0805JT340KCT-ND,2,0.1,0.2,340k resistor,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT340K/RMCF0805JT340KCT-ND/
-Stackpole,RMCF0805JT1M80,Digikey,RMCF0805JT1M80CT-ND,2,0.1,0.2,1.80 Mohm resistor,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT1M80/RMCF0805JT1M80CT-ND/
-Lite-On,LTST-C170GKT,Digikey,160-1179-1-ND,5,0.34,1.7,Green 0805 LED,0805 (2012 metric),http://www.digikey.com/product-detail/en/LTST-C170GKT/160-1179-1-ND/
-Lite-On,LTST-C170CKT,Digikey,160-1176-1-ND,4,0.39,1.56,Red 0805 LED,0805 (2012 metric),http://www.digikey.com/product-detail/en/LTST-C170CKT/160-1176-1-ND/
-Lite-On,LTST-C170YKT,Digikey,160-1175-1-ND,2,0.36,0.72,Yellow 0805 LED,0805 (2012 metric),http://www.digikey.com/product-detail/en/LTST-C170YKT/160-1175-1-ND/
-Lite-On,LTST-C170TBKT,Digikey,160-1579-1-ND,1,0.39,0.39,Blue 0805 LED,0805 (2012 metric),http://www.digikey.com/product-detail/en/LTST-C170TBKT/160-1579-1-ND/
-Murata,GRM31CR60J107ME39K ,Digikey,490-7217-1-ND,1,0.81,0.81,100 uF/6V capacitor for battery boost,1206 (3216 metric),http://www.digikey.com/product-detail/en/GRM31CR60J107ME39K/490-7217-1-ND/
-Yageo,CC1206KKX7R5BB106,Digikey,311-1949-1-ND,12,0.18,2.16,10 uF capacitor,1206 (3216 metric),http://www.digikey.com/product-detail/en/CC1206KKX7R5BB106/311-1949-1-ND
-Yageo,CC1206KKX7R6BB225,Digikey,311-1953-1-ND ,1,0.16,0.16,2.2 uF capacitor,1206 (3216 metric),http://www.digikey.com/product-detail/en/CC1206KKX7R6BB225/311-1953-1-ND
-Yageo,CC1206KRX7R9BB104,Digikey,311-1179-1-ND,3,0.1,0.3,100 nF capacitor,1206 (3216 metric),http://www.digikey.com/product-detail/en/CC1206KRX7R9BB104/311-1179-1-ND
-Yageo,CC1206KRX7R9BB103,Digikey,311-1174-1-ND ,3,0.13,0.39,10 nF capacitor for TC,1206 (3216 metric),http://www.digikey.com/product-detail/en/CC1206KRX7R9BB103/311-1174-1-ND
-Laird,TYS50406R8M-10,Digikey,240-2719-1-ND,1,0.5,0.5,6.8 uH inductor,2020 (5050 metric),http://www.digikey.com/product-detail/en/TYS50406R8M-10/240-2719-1-ND/
-MPD,BH501,Digikey,BH501-ND,1,1.34,1.34,Backup battery socket,http://www.memoryprotectiondevices.com/datasheets/BH501-datasheet.pdf,http://www.digikey.com/product-detail/en/BH501/BH501-ND/
-Richtek,RT9193-3.3GB,Digikey,1028-1014-1-ND,1,0.49,0.49,3.3 V boost converter,"SOT-23-5, http://www.richtek.com/assets/product_file/RT9193/DS9193-16.pdf",http://www.digikey.com/product-detail/en/RT9193-33GB/1028-1014-1-ND/
-Amphenol,132134,Digikey,ACX1230-ND,1,4.68,4.68,GPS antenna connector,http://www.amphenolrf.com/media/downloads/2187/132134.pdf,http://www.digikey.com/product-detail/en/132134/ACX1230-ND
-FCI,10103592-0001LF,Digikey,609-4048-1-ND,1,0.76,0.76,MicroUSB socket,http://portal.fciconnect.com/Comergent//fci/drawing/10103592.pdf,http://www.digikey.com/product-detail/en/10103592-0001LF/609-4048-1-ND
-Bel Fuse,C1Q 500,Digikey,507-1075-1-ND,1,0.31,0.31,500 mA fuse,1206 (3216 metric),http://www.digikey.com/product-detail/en/C1Q%2520500/507-1075-1-ND
-OST,OSTTE020104,Digikey,ED2740-ND,3,0.38,1.14,2-pin screw terminal for TC,"3.5 mm, http://www.on-shore.com/sites/default/files/manuals/osttexx0164_0.pdf",http://www.digikey.com/product-detail/en/OSTTE020104/ED2740-ND
-Maxim,MAX31855KASA+,Digikey,MAX31855KASA+-ND,3,4.5,13.5,Thermocouple amplifier,"SOIC-8, http://pdfserv.maximintegrated.com/land_patterns/90-0096.PDF",http://www.digikey.com/product-detail/en/MAX31855KASA%2B/MAX31855KASA%2B-ND
-Laird,HZ0805E601R-10,Digikey,240-2399-1-ND,7,0.1,0.7,Ferrite beads,0805 (2012 metric),http://www.digikey.com/product-detail/en/HZ0805E601R-10/240-2399-1-ND
-Texas Instruments,LP2980AIM5-3.3/NOPB,Digikey,LP2980AIM5-3.3/NOPBCT-ND ,3,0.69,2.07,3.3 V buck regulator,"SOT-23-5, http://www.ti.com/lit/ml/mpds018l/mpds018l.pdf",http://www.digikey.com/product-detail/en/LP2980AIM5-3.3%2FNOPB/LP2980AIM5-3.3%2FNOPBCT-ND/
-Texas Instruments,CD74HC4050M,Digikey,296-9214-5-ND,1,0.57,0.57,Non-inverting buffer,"SOIC-16, http://www.ti.com/lit/ml/mpds178g/mpds178g.pdf",http://www.digikey.com/product-detail/en/CD74HC4050M/296-9214-5-ND
-Micrel,MIC5219-3.3YM5,Digikey,576-1281-1-ND,1,1.82,1.82,3.3 V LDO regulator for XBee,"SOT-23-5, http://www.farnell.com/datasheets/683599.pdf",http://www.digikey.com/product-detail/en/MIC5219-3.3YM5 TR/576-1281-1-ND
-Texas Instruments,TPS61030RSAR,Digikey,296-16660-1-ND,1,3.15,3.15,5 V boost converter,"QFN-16, http://www.ti.com/lit/ml/mpqf145c/mpqf145c.pdf",http://www.digikey.com/product-detail/en/TPS61030RSAR/296-16660-1-ND
-3M,2908-05WB-MG,Digikey,3M5607CT-ND,1,3.6,3.6,MicroSD card socket,http://www.farnell.com/datasheets/190891.pdf,http://www.digikey.com/product-detail/en/2908-05WB-MG/3M5607CT-ND
-Microchip,MCP73831T-2ACI/OT,Digikey,MCP73831T-2ACI%2FOTCT-ND,1,0.67,0.67,LiPo charge controller,"SOT-23-5, http://www.farnell.com/datasheets/630369.pdf",http://www.digikey.com/product-detail/en/MCP73831T-2ACI%2FOT/MCP73831T-2ACI%2FOTCT-ND
-On Semiconductor,MMUN2133LT1G,Digikey,MMUN2133LT1GOSCT-ND,1,0.13,0.13,PNP transistor with bias network,"SOT-23, http://www.farnell.com/datasheets/1708306.pdf",http://www.digikey.com/product-detail/en/MMUN2133LT1G/MMUN2133LT1GOSCT-ND
-On Semiconductor,MBR120VLSFT1G ,Digikey,MBR120VLSFT1GOSCT-ND,1,0.47,0.47,Protection diode,SOD-123FL,http://www.digikey.com/product-detail/en/MBR120VLSFT1G/MBR120VLSFT1GOSCT-ND
-,,Itead Studio,IM120531023,1,1.5,1.5,Arduino Mega headers,0.100” pitch,http://imall.itead.cc/arduino-mega-stackable-header-kit.html
-,,,,,,205.72,,,
+Manufacturer,Manu #,Distributor,Dist #,Qty,Price,Ext. Price,Description,Designator,Footprint,Link
+Arduino,Due,Adafruit,1076,1,49.95,49.95,Microcontroller,removable part,,https://www.adafruit.com/products/1076
+,,Adafruit,85,1,1.95,1.95,Arduino Uno R3 headers,no label on PCB,0.100” pitch,http://www.adafruit.com/products/85
+,,Adafruit,102,1,7.95,7.95,MicroSD card,removable part,,http://www.adafruit.com/products/102
+,,Adafruit,380,1,0.95,0.95,CR1220 backup battery,removable part,,https://www.adafruit.com/products/380
+Globaltop,FGPMMOPA6H,Adafruit,790,1,29.95,29.95,GPS unit,U3,http://www.adafruit.com/datasheets/GlobalTop-FGPMMOPA6H-Datasheet-V0A.pdf,http://www.adafruit.com/products/790
+,,Adafruit,960,1,12.95,12.95,GPS antenna,removable part,,http://www.adafruit.com/products/960
+JST,S2B-PH-K-S?,Adafruit,1769,1,0.75,0.75,2-pin socket for battery,J3,http://www.adafruit.com/datasheets/17311.pdf,http://www.adafruit.com/products/1769
+,,Adafruit,270,3,9.95,29.85,Type K thermocouples,removable part,,http://www.adafruit.com/products/270
+4UCON,,Adafruit,366,1,0.95,0.95,10-pin socket for XBee,X1,2 mm pitch,http://www.adafruit.com/products/366
+Digi,Xbee Series 1,Adafruit,128,1,22.95,22.95,XBee transmitter,removable part,"22 mm spacing, https://www.sparkfun.com/datasheets/Wireless/Zigbee/XBee-Dimensional.pdf",http://www.adafruit.com/products/128
+Stackpole,RMCF0805JT1K00,Digikey,RMCF0805JT1K00CT-ND,12,0.02,0.24,1k resistor,R1-R12,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT1K00/RMCF0805JT1K00CT-ND/
+Stackpole,RMCF0805JT2K00,Digikey,RMCF0805JT2K00CT-ND ,1,0.1,0.1,2k resistor,R25,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT2K00/RMCF0805JT2K00CT-ND/
+Stackpole,RMCF0805JT10K0,Digikey,RMCF0805JT10K0CT-ND,5,0.1,0.5,10k resistor,R13-R19,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT10K0/RMCF0805JT10K0CT-ND/
+Stackpole,RMCF0805JT200K,Digikey,RMCF0805JT200KCT-ND,1,0.1,0.1,200k resistor,R22,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT200K/RMCF0805JT200KCT-ND/
+Stackpole,RMCF0805JT340K,Digikey,RMCF0805JT340KCT-ND,2,0.1,0.2,340k resistor,R20-R21,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT340K/RMCF0805JT340KCT-ND/
+Stackpole,RMCF0805JT1M80,Digikey,RMCF0805JT1M80CT-ND,2,0.1,0.2,1.80 Mohm resistor,R23-R24,0805 (2012 metric),http://www.digikey.com/product-detail/en/RMCF0805JT1M80/RMCF0805JT1M80CT-ND/
+Lite-On,LTST-C170GKT,Digikey,160-1179-1-ND,5,0.34,1.7,Green 0805 LED,LED2 3 5 7 11 12,0805 (2012 metric),http://www.digikey.com/product-detail/en/LTST-C170GKT/160-1179-1-ND/
+Lite-On,LTST-C170CKT,Digikey,160-1176-1-ND,4,0.39,1.56,Red 0805 LED,LED1 4 9,0805 (2012 metric),http://www.digikey.com/product-detail/en/LTST-C170CKT/160-1176-1-ND/
+Lite-On,LTST-C170YKT,Digikey,160-1175-1-ND,2,0.36,0.72,Yellow 0805 LED,LED8 10,0805 (2012 metric),http://www.digikey.com/product-detail/en/LTST-C170YKT/160-1175-1-ND/
+Lite-On,LTST-C170TBKT,Digikey,160-1579-1-ND,1,0.39,0.39,Blue 0805 LED,LED6,0805 (2012 metric),http://www.digikey.com/product-detail/en/LTST-C170TBKT/160-1579-1-ND/
+Murata,GRM31CR60J107ME39K ,Digikey,490-7217-1-ND,1,0.81,0.81,100 uF/6V capacitor for battery boost,C20,1206 (3216 metric),http://www.digikey.com/product-detail/en/GRM31CR60J107ME39K/490-7217-1-ND/
+Yageo,CC1206KKX7R5BB106,Digikey,311-1949-1-ND,12,0.18,2.16,10 uF capacitor,C1-C12,1206 (3216 metric),http://www.digikey.com/product-detail/en/CC1206KKX7R5BB106/311-1949-1-ND
+Yageo,CC1206KKX7R6BB225,Digikey,311-1953-1-ND ,1,0.16,0.16,2.2 uF capacitor,C21,1206 (3216 metric),http://www.digikey.com/product-detail/en/CC1206KKX7R6BB225/311-1953-1-ND
+Yageo,CC1206KRX7R9BB104,Digikey,311-1179-1-ND,3,0.1,0.3,100 nF capacitor,C13-C16,1206 (3216 metric),http://www.digikey.com/product-detail/en/CC1206KRX7R9BB104/311-1179-1-ND
+Yageo,CC1206KRX7R9BB103,Digikey,311-1174-1-ND ,3,0.13,0.39,10 nF capacitor for TC,C17-C19,1206 (3216 metric),http://www.digikey.com/product-detail/en/CC1206KRX7R9BB103/311-1174-1-ND
+Laird,TYS50406R8M-10,Digikey,240-2719-1-ND,1,0.5,0.5,6.8 uH inductor,L1,2020 (5050 metric),http://www.digikey.com/product-detail/en/TYS50406R8M-10/240-2719-1-ND/
+MPD,BH501,Digikey,BH501-ND,1,1.34,1.34,Backup battery socket,BT1,http://www.memoryprotectiondevices.com/datasheets/BH501-datasheet.pdf,http://www.digikey.com/product-detail/en/BH501/BH501-ND/
+Richtek,RT9193-3.3GB,Digikey,1028-1014-1-ND,1,0.49,0.49,3.3 V boost converter,U4,"SOT-23-5, http://www.richtek.com/assets/product_file/RT9193/DS9193-16.pdf",http://www.digikey.com/product-detail/en/RT9193-33GB/1028-1014-1-ND/
+Amphenol,132134,Digikey,ACX1230-ND,1,4.68,4.68,GPS antenna connector,J1,http://www.amphenolrf.com/media/downloads/2187/132134.pdf,http://www.digikey.com/product-detail/en/132134/ACX1230-ND
+FCI,10103592-0001LF,Digikey,609-4048-1-ND,1,0.76,0.76,MicroUSB socket,J2 (no label on PCB),http://portal.fciconnect.com/Comergent//fci/drawing/10103592.pdf,http://www.digikey.com/product-detail/en/10103592-0001LF/609-4048-1-ND
+Bel Fuse,C1Q 500,Digikey,507-1075-1-ND,1,0.31,0.31,500 mA fuse,F1,1206 (3216 metric),http://www.digikey.com/product-detail/en/C1Q%2520500/507-1075-1-ND
+OST,OSTTE020104,Digikey,ED2740-ND,3,0.38,1.14,2-pin screw terminal for TC,TC1 TC2 TC3,"3.5 mm, http://www.on-shore.com/sites/default/files/manuals/osttexx0164_0.pdf",http://www.digikey.com/product-detail/en/OSTTE020104/ED2740-ND
+Maxim,MAX31855KASA+,Digikey,MAX31855KASA+-ND,3,4.5,13.5,Thermocouple amplifier,U7 U8 U9,"SOIC-8, http://pdfserv.maximintegrated.com/land_patterns/90-0096.PDF",http://www.digikey.com/product-detail/en/MAX31855KASA%2B/MAX31855KASA%2B-ND
+Laird,HZ0805E601R-10,Digikey,240-2399-1-ND,7,0.1,0.7,Ferrite beads,FB1-FB7,0805 (2012 metric),http://www.digikey.com/product-detail/en/HZ0805E601R-10/240-2399-1-ND
+Texas Instruments,LP2980AIM5-3.3/NOPB,Digikey,LP2980AIM5-3.3/NOPBCT-ND ,3,0.69,2.07,3.3 V buck regulator,U10-U12,"SOT-23-5, http://www.ti.com/lit/ml/mpds018l/mpds018l.pdf",http://www.digikey.com/product-detail/en/LP2980AIM5-3.3%2FNOPB/LP2980AIM5-3.3%2FNOPBCT-ND/
+Texas Instruments,CD74HC4050M,Digikey,296-9214-5-ND,1,0.57,0.57,Non-inverting buffer,U2,"SOIC-16, http://www.ti.com/lit/ml/mpds178g/mpds178g.pdf",http://www.digikey.com/product-detail/en/CD74HC4050M/296-9214-5-ND
+Micrel,MIC5219-3.3YM5,Digikey,576-1281-1-ND,1,1.82,1.82,3.3 V LDO regulator for XBee,U5,"SOT-23-5, http://www.farnell.com/datasheets/683599.pdf",http://www.digikey.com/product-detail/en/MIC5219-3.3YM5 TR/576-1281-1-ND
+Texas Instruments,TPS61030RSAR,Digikey,296-16660-1-ND,1,3.15,3.15,5 V boost converter,U13,"QFN-16, http://www.ti.com/lit/ml/mpqf145c/mpqf145c.pdf",http://www.digikey.com/product-detail/en/TPS61030RSAR/296-16660-1-ND
+3M,2908-05WB-MG,Digikey,3M5607CT-ND,1,3.6,3.6,MicroSD card socket,U1,http://www.farnell.com/datasheets/190891.pdf,http://www.digikey.com/product-detail/en/2908-05WB-MG/3M5607CT-ND
+Microchip,MCP73831T-2ACI/OT,Digikey,MCP73831T-2ACI%2FOTCT-ND,1,0.67,0.67,LiPo charge controller,U6,"SOT-23-5, http://www.farnell.com/datasheets/630369.pdf",http://www.digikey.com/product-detail/en/MCP73831T-2ACI%2FOT/MCP73831T-2ACI%2FOTCT-ND
+On Semiconductor,MMUN2133LT1G,Digikey,MMUN2133LT1GOSCT-ND,1,0.13,0.13,PNP transistor with bias network,Q1,"SOT-23, http://www.farnell.com/datasheets/1708306.pdf",http://www.digikey.com/product-detail/en/MMUN2133LT1G/MMUN2133LT1GOSCT-ND
+On Semiconductor,MBR120VLSFT1G ,Digikey,MBR120VLSFT1GOSCT-ND,1,0.47,0.47,Protection diode,D1,SOD-123FL,http://www.digikey.com/product-detail/en/MBR120VLSFT1G/MBR120VLSFT1GOSCT-ND
+,,Itead Studio,IM120531023,1,1.5,1.5,Arduino Mega headers,no label on PCB,0.100” pitch,http://imall.itead.cc/arduino-mega-stackable-header-kit.html
+,,,,,,205.72,,,,
